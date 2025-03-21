@@ -1,0 +1,112 @@
+{
+    "ststus": "success",
+    "message": "Welcome to the API",
+
+    "travellist":[
+{
+    "id": "1",
+    "name": "Edinburgh",
+    "country": "Scotland",
+    "reason": "I want to visit Edinburgh to see my girlfriend",
+    "image": "https://media.cntraveller.com/photos/611be9e3d5b6f5a4a3def392/16:9/w_1920,c_limit/Mountain-view-over-city-Edinburgh-scotland-conde-nast-traveller-28july17-iStock.jpg",
+    "cost": "$5000",
+    "discreption":[
+        {
+            "date":"2026-may"
+        }
+    ]
+},
+{
+    "id": "2",
+    "name":"Machu Picchu",
+    "country":"Peru",
+    "reason":"Want to see the strecture and the view", 
+    "image":"https://news.yale.edu/sites/default/files/styles/full/public/ynews-machu_picchu_peru-wiki.jpg?itok=2UrS7Hw8",
+    "cost":"UNK",
+    "discreption":[
+        {
+            "date":""
+        }
+    ]
+},
+{
+    "id": "3",
+    "name":"Gosainkunda",
+    "country":"Nepal",
+    "reason":"Want to see the lakes and views of Gosainkunda",
+    "image":"https://cdn-acnki.nitrocdn.com/fXxjzDgyZfnLsdDDXBAUrVRStNEDzmHO/assets/images/optimized/rev-61fd998/mosaicadventure.com/wp-content/uploads/2019/07/gosaikunda-trek-1024x592-1024x540.jpg",
+    "cost":"UNK",
+    "discreption":[
+        {
+            "date":""
+        }
+    ]
+},
+{
+    "id": "4",
+    "name":"Gelmerbahn",
+    "country":"Switzerland",
+    "reason":"Want to be the part of the world's steepest railway",
+    "image":"https://www.swisstravelcenter.ch/fileadmin/_processed_/7/2/csm_c_gelmer_c6b9e1e26e.jpg",
+    "cost":"UNK",
+    "discreption":[
+        {
+            "date":""
+        }
+    ]
+},
+{
+    "id": "5",
+    "name":"Dead Sea",
+    "country":"Jordan",
+    "reason":"Want to see the most solty sea in the world",
+    "image":"https://www.touristjordan.com/wp-content/uploads/2023/02/dead-sea-jordan-sunrise-1024x683.jpg",
+    "cost":"UNK",
+    "discreption":[
+        {
+            "date":""
+        }
+    ]
+},
+{
+    "id": "6",
+    "name":"Uyuni Salt Flat",
+    "country":"Bolivia",
+    "reason":"I want to see the world's largest salt flat",
+    "image":"https://preview.redd.it/ck7g5heq53q61.jpg?width=1080&crop=smart&auto=webp&s=6147217909d9cb4640aa77c47badb67a03cd074e",
+    "cost":"UNK",
+    "discreption":[
+        {
+            "date":""
+        }
+    ]
+},
+{
+    "id": "7",
+    "name":"Trolltunga",
+    "country":"Norway",
+    "reason":"I want to see the view from the trolltunga",
+    "image":"https://cdn.kimkim.com/files/a/images/a3e13dd290c10154dfb57002d25846502587ed9a/big-7621485bc8d650e0d40a02563956e2be.jpg",
+    "cost":"UNK",
+    "discreption":[
+        {
+            "date":""
+        }
+    ]
+},
+{
+    "id": "8",
+    "name":"Lofoten",
+    "country":"Norway",
+    "reason":"I want to see the view from the Lofoten",
+    "image":"https://cdn.sanity.io/images/4aans0in/production/6cc584048bb517613e7d95e1631881a9858eeb77-2000x1331.jpg?rect=335,0,1331,1331&w=3840&h=3840&fm=webp&q=100&fit=max&auto=format",
+    "cost":"UNK",
+    "discreption":[
+        {
+            "date":""
+        }
+    ]
+}
+
+]
+} 
